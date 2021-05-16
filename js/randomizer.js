@@ -98,7 +98,7 @@ function shuffle(array) {
     return array;
 }
 
-function getTeam(players, roles, round) {
+function getTeam(playersX, rolesX, round) {
     let main;
     let second;
     let healer;
@@ -106,8 +106,8 @@ function getTeam(players, roles, round) {
     let defender;
 
     for (let i = 0; i < 5; i++) {
-        let role = roles[i][round - 1];
-        let player = players[i];
+        let role = rolesX[i][round - 1];
+        let player = playersX[i];
 
         if (role == 1) {
             main = player;
