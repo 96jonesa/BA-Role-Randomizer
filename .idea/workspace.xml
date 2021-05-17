@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d11d5fac-48e4-4a3c-abd2-0d0ed0cd5c72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/babrandomizer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +32,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="babrandomizer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/babrandomizer.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.babrandomizer.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,7 +51,9 @@
       <option name="presentableId" value="Default" />
       <updated>1621149483625</updated>
       <workItem from="1621149485149" duration="3228000" />
-      <workItem from="1621152929000" duration="171000" />
+      <workItem from="1621152929000" duration="859000" />
+      <workItem from="1621154473337" duration="206000" />
+      <workItem from="1621238798054" duration="355000" />
     </task>
     <servers />
   </component>
